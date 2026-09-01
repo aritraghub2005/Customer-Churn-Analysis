@@ -17,6 +17,20 @@ The entire data cleaning, transformation, modeling, and visualization workflow w
 - **DAX** – Measures & Business KPIs
 - **Data Modeling** – Relationships and Star Schema (Power BI)
 
+---
+
+##  Dashboard Features
+
+- 📌 Overall Customer Churn Rate
+- 👥 Active vs Churned Customers
+- 💰 Total Account Balance Analysis
+- 📊 Customer Demographic Insights
+- 🎯 High-Risk Customer Segment Identification
+- 🔍 Interactive Slicers & Drill-Down Reports
+- 📉 Retention Trend Analysis
+
+---
+
 ## Key KPIs
 
 - Customer Count
