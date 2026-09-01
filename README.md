@@ -62,6 +62,5 @@ Bank-Customer-Churn-Analysis/
 ## Author
 
 **Aritra Jana**
-If you found this project helpful, consider giving it a ⭐.
 
 If you found this project helpful, consider giving it a ⭐.
