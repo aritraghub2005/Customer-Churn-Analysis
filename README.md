@@ -38,14 +38,19 @@ The entire data cleaning, transformation, modeling, and visualization workflow w
 - Churn Rate
 - Total Account Balance
 
-## Features
+---
 
-- Built an interactive customer churn dashboard with dynamic slicers.
-- Performed data cleaning and reshaping using Power Query.
-- Created a robust data model within Power BI for efficient analysis.
-- Developed DAX measures for churn rate, customer count, active customers, and account balance.
-- Designed drill-down visualizations to explore customer demographics and financial trends.
-- Identified high-risk customer segments to support customer retention strategies.
+##  Project Workflow
+
+1. Imported raw banking customer dataset
+2. Cleaned and transformed data using Power Query
+3. Built the data model inside Power BI
+4. Created DAX measures for business KPIs
+5. Designed interactive dashboards with slicers and drill-down visuals
+6. Generated insights to identify churn drivers and retention opportunities
+
+---
+
 
 ## Business Questions Answered
 
